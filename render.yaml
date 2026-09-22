@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smart-land-gis
+    env: static
+    buildCommand: npm run build
+    staticPublishPath: ./dist
