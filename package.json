@@ -18,6 +18,7 @@
     "spatial-analysis",
     "smart-city"
   ],
-  "author": "Antigravity",
-  "license": "MIT"
+  "devDependencies": {
+    "vite": "^5.4.14"
+  }
 }
