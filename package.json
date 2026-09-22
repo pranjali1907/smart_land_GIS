@@ -1,0 +1,23 @@
+{
+  "name": "smart-land-gis",
+  "version": "1.0.0",
+  "description": "Smart Land GIS - Cadastral Infrastructure & Parcel Management Portal (Roads, Drainage, Light Poles, Electricity Poles, Plot Dimensions, Flood Regions)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python -m http.server 8080"
+  },
+  "keywords": [
+    "gis",
+    "land-management",
+    "cadastre",
+    "infrastructure",
+    "leaflet",
+    "spatial-analysis",
+    "smart-city"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
